@@ -1,4 +1,0 @@
-CREATE ROLE kerneluser WITH 
-	INHERIT
-	LOGIN
-	PASSWORD :dbuserpwd;

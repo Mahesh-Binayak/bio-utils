@@ -1,3 +1,0 @@
-# Kernel Bioapi Provider
-
-## [DEPRECATED]
